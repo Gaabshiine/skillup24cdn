@@ -4163,7 +4163,7 @@ textarea.form-control.is-invalid {
 fieldset:disabled .btn {
     color: var(--bs-btn-disabled-color);
     pointer-events: none;
-    background-color: var(--bs-btn-disabled-bg);
+    background-color: #00b58b;
     border-color: var(--bs-btn-disabled-border-color);
     opacity: var(--bs-btn-disabled-opacity)
 }
