@@ -4158,7 +4158,7 @@ textarea.form-control.is-invalid {
     box-shadow: var(--bs-btn-focus-box-shadow)
 }
 
-/* .btn.disabled,
+.btn.disabled,
 .btn:disabled,
 fieldset:disabled .btn {
     color: var(--bs-btn-disabled-color);
@@ -4166,7 +4166,7 @@ fieldset:disabled .btn {
     background-color: #00b58b;
     border-color: var(--bs-btn-disabled-border-color);
     opacity: var(--bs-btn-disabled-opacity)
-} */
+}
 
 .btn-primary {
     --bs-btn-color: #fff;
