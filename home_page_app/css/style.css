@@ -10468,8 +10468,6 @@ only screen and (max-width: 767px) {
   position: absolute;
   top: 0;
   right: 0;
-  width: 60%;
-  height: 100%;
   background-repeat: no-repeat;
   z-index: -1;
 }
